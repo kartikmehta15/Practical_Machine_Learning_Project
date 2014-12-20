@@ -1,0 +1,130 @@
+---
+title: "Practical Machine Learning Assignment"
+author: "Kartik Mehta"
+date: "Sunday, December 21, 2014"
+output: html_document
+---
+
+Report
+-------
+
+How the model was built:
+The target variable is classe which takes 5 different values. We use multi class classification for this problem. We try two models (Decision Tree and Random Forest). Random Forest is chosen as final model based on performance on out of sample kept validation set.
+
+Cross-validation:
+We divide data into 70% training and 30% validation. Only training data is used for building model and we use performance on validation data for cross-validation.
+
+Expected out-of-sample error:
+Validation dataset was not used for model creation. We expect out of sample error to be similar as error on validation set.
+Error on validation set for Random Forest model = 1- accuracy = .0121
+
+
+Code and Results
+----------
+
+Load data and clean data
+```{r,warning=FALSE}
+setwd("C:/Personal_learning/Self_learning/coursera_data_science_track/008_ractical_Macine_learning/video_lectures/assign1")
+
+library(caret)
+library(randomForest)
+library(rpart)
+
+## Clean data
+train_data = read.csv("pml-training.csv",stringsAsFactor=F)
+test_data = read.csv("pml-testing.csv",stringsAsFactor=F)
+
+clean_data = function(train){
+  train[is.na(train)]=0
+  train[train==""]=0
+  train[train=="#DIV/0!"]=0
+  train[train=="NA"]=0
+  return(train)
+}
+
+train_clean = clean_data(train_data)
+test_clean = clean_data(test_data)
+write.csv(train_clean,"train_clean.csv",row.names=F)
+write.csv(test_clean,"test_clean.csv",row.names=F)
+rm(list=ls())
+
+## Read clean training data
+train_clean = read.csv("train_clean.csv")
+testing = read.csv("test_clean.csv")
+
+```
+
+
+Split data into training and validation
+------------
+```{r,warning=FALSE}
+## Split data into 70% training and 30% Validation for cross validation
+intrain = createDataPartition(train_clean$classe, p=0.7)
+training = train_clean[c(intrain[[1]]),]
+validation = train_clean[-c(intrain[[1]]),]
+```
+
+Variable selection
+------------
+```{r,warning=FALSE}
+## Variable selection
+# Variables considered : 8:159
+training2 = training[,8:159]
+
+# Remove highly correlated variables
+descrCor <- cor(training2)
+descrCor[is.na(descrCor)]=1
+highlyCorDescr <- findCorrelation(descrCor, cutoff = 0.75)
+training2 <- training2[, -highlyCorDescr]
+training2$classe = training$classe
+```
+
+Decision Tree model
+----------
+```{r,warning=FALSE}
+## Decision Tree model
+model_rpart <- rpart(classe ~., data=training2)
+
+pred_val = predict(model_rpart,validation,type="class")
+confusionMatrix(pred_val,validation$classe)
+```
+
+Random Forest model
+----------
+```{r,warning=FALSE}
+fitControl <- trainControl(method = "repeatedcv",number = 2,repeats = 1,verboseIter =TRUE)
+model_rf <- train(classe ~., method="rf", data=training2, 
+                 trControl=fitControl, number=3,trace=T)
+
+pred_val = predict(model_rf,validation)
+confusionMatrix(pred_val,validation$classe)
+```
+
+Prediction on Test data
+--------
+```{r,warning=FALSE}
+testing2 = testing[,names(training2)[1:(length(ncol(training2))-1)]]
+
+pred_test = predict(model_rf,testing)
+pred_test
+# Model predictions are: B A B A A E D B A A B C B A E E A B B B on
+```
+
+
+```{r,warning=FALSE}
+################################################################################
+# Prediction Assignment Submission: Instructions Help
+answers <- as.character(pred_test)
+# B A B A A E D B A A B C B A E E A B B B
+
+pml_write_files = function(x){
+  n = length(x)
+  for(i in 1:n){
+    filename = paste0("problem_id_",i,".txt")
+    write.table(x[i], file=filename, quote=FALSE, row.names=FALSE, 
+                col.names=FALSE)
+  }
+}
+
+pml_write_files(answers)
+```

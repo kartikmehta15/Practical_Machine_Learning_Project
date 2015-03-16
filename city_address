@@ -1,1 +1,821 @@
 
+Town	Neighbourhood (Urban)	lon	lat
+Agra	Kachpura NCL	77.6953323	27.1153398
+Agra	Ajeet Nagar Gate NCL	77.5164017	27.2030926
+Agra	Jatpura NCL	78.2319501	26.9911816
+Agra	Dhankot NCL	77.58158112	22.74897957
+Aurangabad	Kranti Nagar NCL	75.88879	19.85146
+Aurangabad	Bagdia Nagar NCL	75.3310146	20.6603024
+Aurangabad	Dwarka Puri NCL	77.93795013	27.20232964
+Aurangabad	Chandrakanth Nagar NCL	75.856334	19.857857
+Aurangabad	Samta Nagar NCL	75.0034275	19.7004955
+Aurangabad	Professor Colony NCL	79.89990997	27.89082909
+Aurangabad	Brijwadi NCL	77.70766	27.440869
+Aurangabad	Momin Pura NCL	83.5490796	25.9559421
+Aurangabad	Kranti Nagar NCL	75.88879	19.851464
+Aurangabad	Adarsh Nagar NCL	78.5816988	27.1159595
+Aurangabad	Bagdia Nagar NCL	75.3310146	20.6603024
+Aurangabad	Dwarka Puri NCL	77.93795013	27.20232964
+Aurangabad	Chandrakanth Nagar NCL	75.856334	19.857857
+Aurangabad	Samta Nagar NCL	75.0034275	19.7004955
+Bengaluru	Rayapura NCL	77.2936695	13.3922302
+Bengaluru	K R Market NCL	73.859517	18.469534
+Bengaluru	Karisandra NCL	78.03391266	12.86956978
+Bengaluru	Rayapura NCL	77.2936695	13.3922302
+Bengaluru	K R Market NCL	73.859517	18.469534
+Bengaluru	Karisandra NCL	78.03391266	12.86956978
+Bengaluru	Rayapura NCL	77.2936695	13.3922302
+Bengaluru	K R Market NCL	73.859517	18.469534
+Bengaluru	Karisandra NCL	78.03391266	12.86956978
+Bengaluru	Rayapura NCL	77.2936695	13.3922302
+Bengaluru	K R Market NCL	73.859517	18.469534
+Bengaluru	Karisandra NCL	78.03391266	12.86956978
+Bengaluru	Gangenahalli NCL	77.3927304	12.9828179
+Bengaluru	Rayapura NCL	77.2936695	13.3922302
+Bengaluru	K R Market NCL	73.859517	18.469534
+Bengaluru	Karisandra NCL	78.03391266	12.86956978
+Bengaluru	Gangenahalli NCL	77.3927304	12.9828179
+Bengaluru	Rayapura NCL	77.2936695	13.3922302
+Bengaluru	K R Market NCL	73.859517	18.469534
+Bengaluru	Karisandra NCL	78.03391266	12.86956978
+Bengaluru	Rayapura NCL	77.2936695	13.3922302
+Bengaluru	K R Market NCL	73.859517	18.469534
+Bengaluru	Karisandra NCL	78.03391266	12.86956978
+Bengaluru	Rayapura NCL	77.2936695	13.3922302
+Bengaluru	K R Market NCL	73.859517	18.469534
+Bengaluru	Karisandra NCL	78.03391266	12.86956978
+Bengaluru	Rayapura NCL	77.2936695	13.3922302
+Bengaluru	K R Market NCL	73.859517	18.469534
+Bengaluru	Karisandra NCL	78.03391266	12.86956978
+Bengaluru	Rayapura NCL	77.2936695	13.3922302
+Bengaluru	K R Market NCL	73.859517	18.469534
+Bengaluru	Gali Anjaneya Temple NCL	77.5674194	13.1584923
+Bengaluru	Karisandra NCL	78.03391266	12.86956978
+Bengaluru	Rayapura NCL	77.2936695	13.3922302
+Bengaluru	K R Market NCL	73.859517	18.469534
+Bengaluru	Karisandra NCL	78.03391266	12.86956978
+Bengaluru	Rayapura NCL	77.2936695	13.3922302
+Bengaluru	K R Market NCL	73.859517	18.469534
+Bengaluru	Karisandra NCL	78.03391266	12.86956978
+Bengaluru	Rayapura NCL	77.2936695	13.3922302
+Bengaluru	K R Market NCL	73.859517	18.469534
+Bengaluru	Karisandra NCL	78.03391266	12.86956978
+Bengaluru	Rayapura NCL	77.2936695	13.3922302
+Bengaluru	K R Market NCL	73.859517	18.469534
+Bengaluru	Karisandra NCL	78.03391266	12.86956978
+Bhopal	Habibganj NCL	77.3755084	23.6569846
+Bhopal	Habibganj NCL	77.3755084	23.6569846
+Bhubaneswar	Chandershekarpur NCL	85.8240867	20.3337692
+Bhubaneswar	Naharkanta NCL	85.8729305	20.3285435
+Bhubaneswar	Pandara Village NCL	85.8768375	20.2974413
+Bhubaneswar	Rangmatia NCL	85.842865	20.3256044
+Bhubaneswar	Housing Board Colony NCL	85.8191842	20.3302449
+Bhubaneswar	Sailashree Vihar NCL	85.8069813	20.3328716
+Bhubaneswar	Baramunda NCL	85.7948524	20.2776395
+Bhubaneswar	NALCO Nagar II NCL	85.8166235	20.3153191
+Bhubaneswar	Gajapati Nagar NCL	85.8255855	20.3081
+Bhubaneswar	VSS Nagar NCL	85.8447846	20.3070686
+Bhubaneswar	NALCO Nagar I NCL	85.8166235	20.3153191
+Bhubaneswar	Jayadev Vihar NCL	85.8172637	20.2997267
+Bhubaneswar	Bharatpur NCL	85.7788376	20.3065539
+Bhubaneswar	RBI Colony NCL	85.7903689	20.2767891
+Bhubaneswar	Nayapalli (Jayadev Vihar) NCL	85.8243553	20.2962141
+Bhubaneswar	Rasulgarh Industrial Area NCL	85.8467041	20.2766416
+Bhubaneswar	Ekrma Vihar NCL	85.8415852	20.2765207
+Bhubaneswar	State Electricity Board Colony NCL	85.8850798	20.4529666
+Bhubaneswar	Acharya Vihar NCL	85.8294259	20.2948132
+Bhubaneswar	Paiknagar NCL	85.8031777	20.2785815
+Bhubaneswar	Nayapalli NCL	85.8102212	20.2898973
+Bhubaneswar	Ganga Nagar NCL	85.8217448	20.2619301
+Bhubaneswar	Khandagiri NCL	85.780109	20.2561729
+Bhubaneswar	Jagamara NCL	85.7976413	20.2602067
+Bhubaneswar	Pokhariput NCL	85.8063794	20.2407561
+Bhubaneswar	Soubhagya Nagar NCL	85.8063794	20.2704828
+Bhubaneswar	Paika Nagar NCL	85.8031777	20.2785815
+Bhubaneswar	Gopabandhu Nagar NCL	85.8089406	20.2794621
+Bhubaneswar	Kesari Nagar NCL	85.8268657	20.2709698
+Bhubaneswar	Madhusudan Nagar NCL	85.831346	20.2837105
+Bhubaneswar	Satya Nagar NCL	85.8499032	20.2804332
+Bhubaneswar	Master Canteen Area NCL	85.8438583	20.2717895
+Bhubaneswar	Budha Nagar NCL	85.842865	20.2631733
+Bhubaneswar	Jharpada NCL	85.8620997	20.2768431
+Bhubaneswar	Lakshmi Sagar NCL	85.8545817	20.2653889
+Bhubaneswar	Unit-2 NCL	85.8345459	20.268179
+Bhubaneswar	Kharavela Nagar NCL	85.8409453	20.2727895
+Bhubaneswar	Bapuji Nagar NCL	85.831986	20.2592001
+Bhubaneswar	New Bapuji Nagar NCL	85.8300659	20.2539523
+Bhubaneswar	Barahmeswar Bagh NCL	85.8504134	20.2397294
+Bhubaneswar	Guatam Nagar NCL	85.8377457	20.2556204
+Bhubaneswar	Old Town NCL	85.8358259	20.2369955
+Bhubaneswar	Samantarapur NCL	85.842865	20.2349322
+Bhubaneswar	Kapila Parsad NCL	85.8159833	20.2342961
+Bhubaneswar	Kapileswar NCL	85.8268657	20.2293519
+Bhubaneswar	Sindurapada NCL	85.8140627	20.2290484
+Bhubaneswar	Bhima Tanki Housing Colony NCL	85.8220157	20.2356045
+Bhubaneswar	Dumdma Village NCL	85.7897284	20.2359002
+Bhubaneswar	Arya Village NCL	85.7948524	20.2479129
+Chandigarh	Sector 23 & 24 NCL	77.0630248	28.5110641
+Chandigarh	Sector 39 & 40 NCL	77.0531714	28.4477547
+Chandigarh	Sector 41 & 42 NCL	77.3625903	28.5639862
+Chandigarh	Sector 44 & 34 NCL	77.0759216	28.4493125
+Chandigarh	Sector 33 & 20 NCL	77.02766	28.4388158
+Chandigarh	Sector 27 & 28 NCL	77.328135	28.5750829
+Chennai	Vallal Seethakathi Nagar NCL	79.8293993	10.9181774
+Chennai	Vallal Seethakathi Nagar NCL	79.8293993	10.9181774
+Chennai	Vallal Seethakathi Nagar NCL	79.8293993	10.9181774
+Chennai	Dr. Sathyavanimuthu Nagar NCL	80.3185252	13.2065203
+Chennai	Vallal Seethakathi Nagar NCL	79.8293993	10.9181774
+Chennai	Vallal Seethakathi Nagar NCL	79.8293993	10.9181774
+Chennai	Grace Garden NCL	80.2916024	13.1159639
+Chennai	Royapuram NCL	80.2961313	13.1135547
+Chennai	Singara Garden NCL	80.289621	13.1131349
+Chennai	Narayanappanaicken Garden NCL	80.2908125	13.0969326
+Chennai	Old Washermanpet NCL	80.2901638	13.1123675
+Chennai	Meenakshiammanpet NCL	80.2868345	13.1080431
+Chennai	Kondithope NCL	80.2774294	13.1030573
+Chennai	Seven Wells (North) NCL	80.2816096	13.1032154
+Chennai	Muthialpet NCL	80.288576	13.0977804
+Chennai	Vallal Seethakathi Nagar NCL	79.8293993	10.9181774
+Chennai	Katchaleeswarar Nagar NCL	80.2878918	13.1004473
+Chennai	Sowcarpet NCL	80.27897	13.0895
+Chennai	Basin Bridge NCL	80.2753393	13.1065397
+Chennai	Vyasarpadi (South) NCL	80.2594387	13.1183187
+Chennai	Vyasarpadi (North) NCL	80.2594387	13.1183187
+Chennai	Perambur (North) NCL	80.2316646	13.1160178
+Chennai	Perambur (East) NCL	80.2316646	13.1160178
+Chennai	Perambur (South) NCL	80.2316646	13.1160178
+Chennai	Wadia Nagar NCL	80.250602	13.1038216
+Chennai	Dr. Sathyavanimuthu Nagar NCL	80.3185252	13.2065203
+Chennai	Pulianthope NCL	80.2701859	13.1048187
+Chennai	Kodungaiyur (West) NCL	80.2478765	13.1373826
+Chennai	Kodungaiyur (East) NCL	80.2588091	13.1313477
+Chennai	Cherian Nagar (South) NCL	80.2972833	13.1390731
+Chennai	Korukkupet NCL	80.2782674	13.1198654
+Chennai	Mottai Thottam NCL	80.2899693	13.1092301
+Chennai	Dr. Vijayarahavalu Nagar NCL	80.2805613	13.1083743
+Chennai	Tondiarpet NCL	80.2900293	13.1272176
+Chennai	Peddu Naickenpet NCL	80.2788467	13.0852299
+Chennai	Park Town NCL	80.2767673	13.0740057
+Chennai	Elephant Gate NCL	80.2784745	13.0913446
+Chennai	Sembiam NCL	80.2415563	13.1258454
+Chennai	Siruvallur NCL	80.2425869	13.1145575
+Chennai	Thattankulam NCL	80.2704621	13.0956711
+Chennai	Choolai NCL	80.267998	13.089657
+Chennai	Edapalayam NCL	80.2774294	13.0859636
+Chennai	Agaram (North) NCL	80.2294222	13.1116221
+Chennai	Agaram (South) NCL	80.2294222	13.1116221
+Chennai	Vidhuthalai Guru Samy Nagar NCL	80.2157484	13.1324123
+Chennai	Maraimalai Adigal Nagar (South) NCL	80.2553396	13.1254344
+Chennai	Purasawalkam NCL	80.2509608	13.0891496
+Chennai	Kulathur NCL	80.2142936	13.1204001
+Chennai	Periyar Nagar (North) NCL	80.2230688	13.1152396
+Chennai	Periyar Nagar (South) NCL	80.2230688	13.1152396
+Chennai	Adikesavapuram NCL	80.267675	13.0784733
+Chennai	Chintadripet NCL	80.2737717	13.0735408
+Chennai	Chepauk NCL	80.2812089	13.0633338
+Chennai	Kosapet NCL	80.254444	13.094167
+Chennai	Pattalam NCL	80.2607068	13.0967262
+Chennai	Perumalpet NCL	80.2572953	13.0892002
+Chennai	Sathyamurthi Nagar NCL	80.2601842	13.1139791
+Chennai	Vallal Seethakathi Nagar NCL	79.8293993	10.9181774
+Chennai	Vallal Seethakathi Nagar NCL	79.8293993	10.9181774
+Chennai	Vallal Seethakathi Nagar NCL	79.8293993	10.9181774
+Chennai	Vallal Seethakathi Nagar NCL	79.8293993	10.9181774
+Chennai	Vallal Seethakathi Nagar NCL	79.8293993	10.9181774
+Coimbatore	Subramaiyapuram NCL	78.770299	10.789301
+Coimbatore	Subramaiyapuram NCL	78.770299	10.789301
+Dehradun	Shivaji Marg NCL	78.273575	30.1208702
+Dehradun	Bhagat Singh Colony NCL	73.85346222	29.91765022
+Dehradun	Bharmpuri NCL	78.1596497	29.9520548
+Dehradun	Indirapuram NCL	77.335253	28.676849
+Delhi	Mukandpur NCL	76.9448613	28.7410193
+Delhi	Khera NCL	76.975086	28.611065
+Delhi	Chhawala NCL	77.0023039	28.562109
+Delhi	Roshanpura NCL	76.9769082	28.6013521
+Delhi	NAzafgarh NCL	76.9854526	28.6090126
+Delhi	Dichaon Kalan NCL	76.9840178	28.6413612
+Delhi	Mukandpur NCL	76.9448613	28.7410193
+Delhi	Khera NCL	76.975086	28.611065
+Delhi	Narela NCL	77.0917838	28.8539597
+Delhi	Bankner NCL	77.0737149	28.8444556
+Delhi	Roshanpura NCL	76.9769082	28.6013521
+Delhi	Mitha Pur NCL	77.3240958	28.4933863
+Ghaziabad	Rajapur NCL	77.94467163	28.75168037
+Ghaziabad	Bhowapur NCL	77.9942344	28.7852759
+Ghaziabad	Rajapur NCL	77.94467163	28.75168037
+Ghaziabad	Bhowapur NCL	77.9942344	28.7852759
+Gurgaon	Gurgaon village (Major) NCL	76.8688194	28.2748906
+Gurgaon	Gurgaon village (Major) NCL	76.8688194	28.2748906
+Indore	Bhamori NCL	76.27674866	22.71623993
+Jabalpur	Dr. Ram Manohar Lohiya NCL	80.98023987	26.85419464
+Jabalpur	Maharaja Agrasen NCL	75.8346329	26.9126301
+Jabalpur	Srdar Vallabha Bhai Patel NCL	72.8368181	18.9578837
+Jabalpur	Lal Bahadur Shastri NCL	75.7988892	26.8498001
+Jabalpur	Chitranjan Das NCL	88.37760925	22.48825073
+Jabalpur	Shaheed Bhagat Singh NCL	77.1083069	28.6137791
+Jabalpur	Rani Laxmi Bai NCL	78.7912256	23.8514676
+Kanpur	Ghau Khera NCL	80.88196	26.77916
+Kanpur	Rambagh/Gandhi Nagar NCL	78.0578646	27.2102798
+Kanpur	L- Block,P-Block,M Block Kaka Dev & Jay Prakash Nagar NCL	73.8704071	29.92188072
+Kanpur	Govind Nagar Block A,B,C,D,E,Peeli Railway Coloney NCL	73.86495209	29.94823074
+Kolkata	Central NCL	88.4347496	22.9741956
+Kolkata	Golabari NCL	88.5749424	22.7025634
+Kolkata	Central NCL	88.4347496	22.9741956
+Kolkata	Golabari NCL	88.5749424	22.7025634
+Kolkata	Central NCL	88.4347496	22.9741956
+Kolkata	Central NCL	88.4347496	22.9741956
+Kolkata	Jora Mandir NCL	88.2947563	22.5167955
+Kolkata	Philips NCL	88.3251456	22.4786082
+Kolkata	Naktala NCL	88.3688527	22.4730953
+Kolkata	Panchasayar NCL	88.3912962	22.4636369
+Kolkata	Garia NCL	88.3967536	22.4629461
+Kolkata	Bansdroni NCL	88.3631369	22.4696493
+Kolkata	Subodh Garden NCL	88.3630884	22.4711752
+Kolkata	Purba Putiari NCL	88.342254	22.4690906
+Kolkata	New Tollygunge NCL	88.3476117	22.4766043
+Kolkata	Paschim Putiari NCL	88.3360765	22.4772311
+Kolkata	Auddy Bagan Basti NCL	88.3184643	22.4986482
+Kolkata	Haridevpur NCL	88.3355732	22.479414
+Kolkata	Barisha NCL	88.3206664	22.4852952
+Kolkata	Ramkrishna Nagar NCL	88.3815923	22.4560922
+Kolkata	Kalagachia NCL	88.28675079	22.46598053
+Kolkata	Sarsuna NCL	88.2826103	22.4826318
+Kolkata	Kartik Nagar NCL	88.2864098	22.4802515
+Kolkata	Basudevpur NCL	88.3033284	22.4858166
+Kolkata	Behala NCL	88.3108378	22.4981402
+Kolkata	Vivekananda Pally NCL	88.3099592	22.4985597
+Kolkata	Makalhati Mauja NCL	88.2744904	22.5349693
+Kolkata	Bidhangarh NCL	88.2673922	22.5259704
+Kolkata	Kanchantala NCL	88.2485521	22.5418475
+Kolkata	Central NCL	88.4347496	22.9741956
+Lucknow	Sarojini Nagar Ward Part-1 NCL	80.8684769	26.7492008
+Lucknow	Shaheed Bhagat Singh Ward NCL	80.8768387	26.8423405
+Lucknow	Lal Bahadur Shastri Ward Part-1 NCL	80.9449005	26.8388691
+Lucknow	Kharika Ward NCL	80.9447784	26.7863503
+Lucknow	Chinhat Ward NCL	81.0480804	26.8838997
+Lucknow	Faizullah Ganj Ward NCL	80.9219818	26.8983192
+Lucknow	Lalkuan Ward NCL	80.9235535	26.8338604
+Lucknow	Ambedkar Nagar Ward-Ist NCL	80.9227982	26.7671795
+Lucknow	Sarojini Nagar Ward IInd NCL	80.8684769	26.7492008
+Lucknow	Haidar Ganj Ward IInd NCL	80.9018631	26.8493595
+Lucknow	Hazratganj Ward NCL	80.939209	26.8526497
+Lucknow	Kesari Khera Ward NCL	80.8742218	26.7993908
+Lucknow	Guru Govind Singh Ward NCL	80.9276733	26.8377495
+Lucknow	Sharda Nagar Ward NCL	80.9250717	26.7835693
+Lucknow	Jagdish Chandra Bose Ward NCL	80.9345093	26.8518505
+Lucknow	Bala Ganj Ward NCL	80.9537582	26.8671494
+Lucknow	Ram Mohan Roi Ward NCL	80.9538269	26.8551807
+Lucknow	Nishat Ganj Ward NCL	80.9552231	26.8706398
+Lucknow	Rajendranagar Ward NCL	80.9190979	26.8406601
+Lucknow	Rani Laxmi Bai Ward, Aminabad NCL	73.34680176	28.00689507
+Lucknow	Jankipuram Ward Ist NCL	80.9659882	26.9105492
+Lucknow	Rafi Ahmad Kidwai ward NCL	80.9697113	26.8187408
+Lucknow	Lala Lajpat Rai Ward NCL	80.9574509	26.8546295
+Lucknow	Paper Mill Colony Ward NCL	80.9640732	26.8658409
+Lucknow	Haidar Ganj Ward Ist NCL	80.9018631	26.8493595
+Lucknow	Mahatama Gandhi Ward NCL	80.9144998	26.86731
+Lucknow	Gomti Nagar Ward NCL	80.9724503	26.8529892
+Lucknow	Daliganj Ward NCL	80.9316101	26.8697701
+Lucknow	Lal Bahadur Shastri Ward IInd NCL	80.9472275	26.8373299
+Lucknow	Mahanagar Ward NCL	80.9548874	26.8786201
+Lucknow	Triveni Nagar Ward NCL	80.9278336	26.8770809
+Lucknow	Hind Nagar Ward NCL	80.8807983	26.7996197
+Lucknow	Mankameshwar Mandir Ward NCL	80.9309006	26.8671799
+Lucknow	Ram Ji Lal Nagar Ward NCL	80.8609924	26.8426609
+Lucknow	Ganesh Ganj Ward NCL	80.949913	26.8426991
+Lucknow	Alam Nagar Ward NCL	80.8589325	26.8515892
+Lucknow	Lohiya Nagar Ward NCL	80.9609833	26.8958092
+Lucknow	Indra Nagar Ward NCL	81.2464362	26.2114231
+Lucknow	Ali Ganj Ward NCL	80.9549637	26.9057407
+Lucknow	Acharya Narendra Dev Ward NCL	80.9370499	26.8713207
+Lucknow	Janki Puram Ward IInd NCL	80.9659882	26.9105492
+Lucknow	Daulat Ganj Ward NCL	80.9066391	26.8814297
+Lucknow	Bhawani Ganj NCL	80.898503	26.807796
+Lucknow	Nazer Bagh Ward NCL	80.9293594	26.8446503
+Lucknow	Viveka Nand Puri Ward NCL	80.950119	26.8749809
+Lucknow	Wazirbagh Mohalla NCL	80.886203	26.8628331
+Lucknow	Raja Bazar Ward NCL	80.9122696	26.8592205
+Lucknow	Lucknow Contonment NCL	80.9484195	26.8069878
+Lucknow	Rani Laxmi Bai Ward, Aminabad NCL	73.34680176	28.00689507
+Lucknow	Indra Nagar Ward NCL	81.2464362	26.2114231
+Ludhiana	Pratap Colony NCL	76.2261852	30.7051459
+Madurai	Matchiyam NCL	82.22885895	26.13371086
+Madurai	Pandhalkudi NCL	78.1119562	9.3887684
+Madurai	Veerakaliyamman Kovil NCL	78.4123935	10.0458421
+Madurai	Madakkulam NCL	78.23401642	9.636369705
+Meerut	Shiv Shakti Nagar NCL	78.1191741	29.3919571
+Meerut	Islam Nagar NCL	77.7266088	29.2711723
+Meerut	Anup Nagar NCL	75.89595032	22.73114014
+Meerut	Bagwanapur NCL	77.97570801	28.85005951
+Meerut	Prempuri, Railway Road NCL	77.68435669	29.46698952
+Meerut	Dev Nagar NCL	77.7725088	28.5695953
+Meerut	Shiv Shankar Puri NCL	77.4320886	28.6808909
+Meerut	Bagatpur NCL	77.63976288	28.61507988
+Meerut	Saddiq Nagar NCL	77.4252445	28.6809182
+Mumbai	Colaba NCL	72.8147123	18.9067031
+Mumbai	Cuffe Parade NCL	72.8212934	18.9126831
+Mumbai	Nariman Point NCL	72.8242221	18.9255728
+Mumbai	Fort NCL	72.8371511	18.9352599
+Mumbai	New Marine Lines NCL	72.8286535	18.9389181
+Mumbai	Mandvi NCL	72.8382547	18.9563454
+Mumbai	Zaveri Bazar NCL	72.8304999	18.9495056
+Mumbai	Umerkhadi NCL	72.836039	18.9597259
+Mumbai	Dongari NCL	72.837815	18.9597509
+Mumbai	Kumbharwada NCL	72.8301306	18.9606013
+Mumbai	Bhuleshwar NCL	72.8295542	18.9562462
+Mumbai	Badam Wadi NCL	72.8292074	18.9492034
+Mumbai	Kalbadevi NCL	72.8288826	18.9487379
+Mumbai	Fanas Wadi NCL	72.8252228	18.9516918
+Mumbai	Bharat Nagar NCL	72.8183134	18.9637874
+Mumbai	Girgaon NCL	72.8196689	18.9572287
+Mumbai	Girgaon Chowpatty NCL	72.8127739	18.9542851
+Mumbai	Malabar Hill NCL	72.8013252	18.9542739
+Mumbai	Tardeo NCL	72.8091825	18.9649699
+Mumbai	Kazipura NCL	72.8305238	18.9641028
+Mumbai	Colaba NCL	72.8147123	18.9067031
+Mumbai	Cuffe Parade NCL	72.8212934	18.9126831
+Mumbai	Nariman Point NCL	72.8242221	18.9255728
+Mumbai	Fort NCL	72.8371511	18.9352599
+Mumbai	New Marine Lines NCL	72.8286535	18.9389181
+Mumbai	Mandvi NCL	72.8382547	18.9563454
+Mumbai	Zaveri Bazar NCL	72.8304999	18.9495056
+Mumbai	Umerkhadi NCL	72.836039	18.9597259
+Mumbai	Dongari NCL	72.837815	18.9597509
+Mumbai	Kumbharwada NCL	72.8301306	18.9606013
+Mumbai	Tulsiwadi NCL	72.8139964	18.9747163
+Mumbai	Bhuleshwar NCL	72.8295542	18.9562462
+Mumbai	Badam Wadi NCL	72.8292074	18.9492034
+Mumbai	Kalbadevi NCL	72.8288826	18.9487379
+Mumbai	Fanas Wadi NCL	72.8252228	18.9516918
+Mumbai	Bharat Nagar NCL	72.8183134	18.9637874
+Mumbai	Girgaon NCL	72.8196689	18.9572287
+Mumbai	Girgaon Chowpatty NCL	72.8127739	18.9542851
+Mumbai	Malabar Hill NCL	72.8013252	18.9542739
+Mumbai	Tardeo NCL	72.8091825	18.9649699
+Mumbai	Mazagaon NCL	72.8421341	18.9644251
+Mumbai	Byculla NCL	72.8436024	18.9718388
+Mumbai	Tadwadi NCL	72.8378854	18.9674417
+Mumbai	Kazipura NCL	72.8305238	18.9641028
+Mumbai	Nagpada NCL	72.8271764	18.9689382
+Mumbai	Agripada NCL	72.8273249	18.9777315
+Mumbai	Parel NCL	72.8389905	18.9944898
+Mumbai	Sewari NCL	72.854548	18.9988745
+Mumbai	Naigaon NCL	72.8463784	19.0109822
+Mumbai	Dadar East NCL	72.8426858	19.0099129
+Mumbai	Prabhadevi NCL	72.8279973	19.0158466
+Mumbai	Worli NCL	72.8290456	18.9872015
+Mumbai	Lower Parel NCL	72.8310679	18.9927476
+Mumbai	Mahalakshmi NCL	72.8168573	18.983117
+Mumbai	Dadar West NCL	72.8378125	19.0235976
+Mumbai	Koliwada NCL	72.8168362	19.018226
+Mumbai	Krishna Nagar NCL	72.8371469	19.0054358
+Mumbai	Thane Creek NCL	72.9814877	19.0374312
+Navi Mumbai	Vashi Node 8 NCL	73.0202584	19.040037
+Navi Mumbai	Sanpadagaon NCL	73.0161755	19.0644231
+Navi Mumbai	Sanpada Node NCL	73.0202584	19.040037
+Navi Mumbai	Juinagar NCL	73.014991	19.051493
+Navi Mumbai	Vashi Node 3 NCL	73.0202584	19.040037
+Navi Mumbai	Turbhe Store 1 NCL	73.0191275	19.0776412
+Navi Mumbai	APMC NCL	73.0098843	19.0707037
+Navi Mumbai	Vashi Node 6 NCL	73.0202584	19.040037
+Navi Mumbai	Vashi Node 7 NCL	73.0202584	19.040037
+Navi Mumbai	Vashi Node 10 NCL	73.0202584	19.040037
+Navi Mumbai	Vashi Node 11 NCL	73.0202584	19.040037
+Navi Mumbai	Vashi Node 5 NCL	73.0202584	19.040037
+Navi Mumbai	Vashi Node 4 NCL	73.0202584	19.040037
+Navi Mumbai	Turbhegaon NCL	73.0121166	19.0694317
+Navi Mumbai	Vashi Node 12 NCL	73.0202584	19.040037
+Navi Mumbai	Vashi Node 2 NCL	73.0202584	19.040037
+Navi Mumbai	Vashi Node 1 NCL	73.0202584	19.040037
+Navi Mumbai	Shirawane-2 NCL	73.0272492	19.0481903
+Navi Mumbai	Shirawane-1 NCL	73.0272492	19.0481903
+Navi Mumbai	Nerul Node 4 NCL	73.0202584	19.040037
+Navi Mumbai	Sarsole NCL	73.0117476	19.042441
+Navi Mumbai	Nerul Node 11 NCL	73.0202584	19.040037
+Navi Mumbai	Nerul Node 5 NCL	73.0202584	19.040037
+Navi Mumbai	Nerul Node 6 NCL	73.0202584	19.040037
+Navi Mumbai	Nerul Node 7 NCL	73.0202584	19.040037
+Navi Mumbai	Karave NCL	73.0198654	19.0094224
+Navi Mumbai	Nerul Node 1 NCL	73.0202584	19.040037
+Navi Mumbai	Chinchpada NCL	73.0892245	18.9914874
+Navi Mumbai	Belapur NCL	73.0314989	19.0037045
+Navi Mumbai	Nerul NRI NCL	73.01387	19.0076808
+Navi Mumbai	Nerul Node 9 NCL	73.0202584	19.040037
+Navi Mumbai	Nerul Node 10 NCL	73.0202584	19.040037
+Navi Mumbai	Nerul Node 3 NCL	73.0202584	19.040037
+Navi Mumbai	Nerul Node 2 NCL	73.0202584	19.040037
+Navi Mumbai	Nerul Gaon NCL	73.0250011	19.046713
+Navi Mumbai	Darave NCL	73.0198654	19.0094224
+Navi Mumbai	Nerul Node 8 NCL	73.0202584	19.040037
+Navi Mumbai	Belapur Node 2 (Agroli) NCL	73.0364692	19.0199683
+Navi Mumbai	Belapur Node 3 NCL	73.0202584	19.040037
+Navi Mumbai	Belapur Node 4 NCL	73.0202584	19.040037
+Navi Mumbai	Belapur Node 1 NCL	73.0202584	19.040037
+Navi Mumbai	Diwale NCL	73.0401588	19.0102514
+Mumbai	Colaba NCL	72.8147123	18.9067031
+Mumbai	Cuffe Parade NCL	72.8212934	18.9126831
+Mumbai	Nariman Point NCL	72.8242221	18.9255728
+Mumbai	Fort NCL	72.8371511	18.9352599
+Mumbai	New Marine Lines NCL	72.8286535	18.9389181
+Mumbai	Zaveri Bazar NCL	72.8304999	18.9495056
+Mumbai	Badam Wadi NCL	72.8292074	18.9492034
+Mumbai	Kalbadevi NCL	72.8288826	18.9487379
+Mumbai	Fanas Wadi NCL	72.8252228	18.9516918
+Mumbai	Girgaon Chowpatty NCL	72.8127739	18.9542851
+Mumbai	Malabar Hill NCL	72.8013252	18.9542739
+Navi Mumbai	Chinchpada NCL	73.0892245	18.9914874
+Navi Mumbai	Belapur NCL	73.0314989	19.0037045
+Navi Mumbai	Diwale NCL	73.0401588	19.0102514
+Mumbai	Colaba NCL	72.8147123	18.9067031
+Mumbai	Cuffe Parade NCL	72.8212934	18.9126831
+Navi Mumbai	Chinchpada NCL	73.0892245	18.9914874
+Mumbai	Ville Parle East NCL	72.8563994	19.0963781
+Mumbai	Andheri East NCL	72.8726952	19.1154908
+Mumbai	Colaba NCL	72.8147123	18.9067031
+Mumbai	Cuffe Parade NCL	72.8212934	18.9126831
+Mumbai	Nariman Point NCL	72.8242221	18.9255728
+Mumbai	Fort NCL	72.8371511	18.9352599
+Mumbai	New Marine Lines NCL	72.8286535	18.9389181
+Mumbai	Mandvi NCL	72.8382547	18.9563454
+Mumbai	Zaveri Bazar NCL	72.8304999	18.9495056
+Mumbai	Umerkhadi NCL	72.836039	18.9597259
+Mumbai	Dongari NCL	72.837815	18.9597509
+Mumbai	Kumbharwada NCL	72.8301306	18.9606013
+Mumbai	Tulsiwadi NCL	72.8139964	18.9747163
+Mumbai	Bhuleshwar NCL	72.8295542	18.9562462
+Mumbai	Badam Wadi NCL	72.8292074	18.9492034
+Mumbai	Kalbadevi NCL	72.8288826	18.9487379
+Mumbai	Fanas Wadi NCL	72.8252228	18.9516918
+Mumbai	Bhat Wadi NCL	72.8440399	19.1597942
+Mumbai	Bharat Nagar NCL	72.8183134	18.9637874
+Mumbai	Girgaon NCL	72.8196689	18.9572287
+Mumbai	Girgaon Chowpatty NCL	72.8127739	18.9542851
+Mumbai	Malabar Hill NCL	72.8013252	18.9542739
+Mumbai	Tardeo NCL	72.8091825	18.9649699
+Mumbai	Mazagaon NCL	72.8421341	18.9644251
+Mumbai	Byculla NCL	72.8436024	18.9718388
+Mumbai	Tadwadi NCL	72.8378854	18.9674417
+Mumbai	Kazipura NCL	72.8305238	18.9641028
+Mumbai	Nagpada NCL	72.8271764	18.9689382
+Mumbai	Agripada NCL	72.8273249	18.9777315
+Mumbai	Parel NCL	72.8389905	18.9944898
+Mumbai	Sewari NCL	72.854548	18.9988745
+Mumbai	Naigaon NCL	72.8463784	19.0109822
+Mumbai	Dadar East NCL	72.8426858	19.0099129
+Mumbai	Antop Hill NCL	72.869804	19.0283439
+Mumbai	Prabhadevi NCL	72.8279973	19.0158466
+Mumbai	Worli NCL	72.8290456	18.9872015
+Mumbai	Lower Parel NCL	72.8310679	18.9927476
+Mumbai	Mahalakshmi NCL	72.8168573	18.983117
+Mumbai	Dharavi NCL	72.8508504	19.0402084
+Mumbai	Mahim NCL	72.8404432	19.0351534
+Mumbai	Dadar West NCL	72.8378125	19.0235976
+Mumbai	Jawahar Nagar NCL	72.8478554	19.1605529
+Mumbai	Bandra East NCL	72.8493479	19.060533
+Mumbai	Vidyanagari NCL	72.8617462	19.0768494
+Mumbai	Vaidya Nagar NCL	72.8310538	19.0520818
+Mumbai	Bandra West NCL	72.8362497	19.0606917
+Mumbai	Union Park NCL	72.9002836	19.0484295
+Mumbai	Koliwada NCL	72.8168362	19.018226
+Mumbai	Ambedkar Nagar NCL	72.8788707	19.0729788
+Mumbai	Khar West NCL	72.8341267	19.0716903
+Mumbai	Gandhi Nagar NCL	72.9261243	19.1234628
+Mumbai	GOI Staff Colony NCL	72.8334541	19.0833788
+Mumbai	Santacruz West NCL	72.8376755	19.0815087
+Mumbai	Ville Parle West NCL	72.8409693	19.1102949
+Mumbai	Siddharth Nagar NCL	72.8410352	19.159626
+Mumbai	Kurla West NCL	72.8781322	19.0707532
+Mumbai	Bandra Netaji Nagar NCL	72.8805321	19.0722388
+Mumbai	Ghatkopar East NCL	72.9070116	19.0796375
+Mumbai	Ghatkopar West NCL	72.9076669	19.0908063
+Mumbai	Barve Nagar NCL	72.9024986	19.0967823
+Mumbai	Hiranandani Gardens NCL	72.9091436	19.1153798
+Mumbai	Mulund East NCL	72.9637728	19.1565109
+Mumbai	Mulund West NCL	72.942537	19.1725542
+Mumbai	Jogeshwari East NCL	72.8549697	19.1370256
+Mumbai	Juhu NCL	72.8320717	19.098821
+Mumbai	Azad Nagar NCL	72.836039	19.1292452
+Mumbai	Andheri West NCL	72.82766	19.1363246
+Mumbai	Madh NCL	72.7895086	19.164008
+Mumbai	Jogeshwari West NCL	72.8421555	19.1405116
+Mumbai	Goregaon East NCL	72.8678551	19.1551485
+Mumbai	Aarey Milk Colony NCL	72.8836703	19.1628984
+Mumbai	Goregaon West NCL	72.839241	19.1629338
+Mumbai	Dindoshi NCL	72.8616978	19.1762177
+Mumbai	Daravalli NCL	72.8013252	19.1611234
+Mumbai	Usha Nagar NCL	72.9412582	19.1511364
+Mumbai	Malad NCL	72.8554149	19.180237
+Mumbai	Malad East NCL	72.8574558	19.1808735
+Mumbai	Malad West NCL	72.8401539	19.1827551
+Mumbai	Ashok Nagar NCL	72.8905429	19.0916398
+Mumbai	Krishna Nagar NCL	72.8371469	19.0054358
+Mumbai	Kurla East NCL	72.8834355	19.0620527
+Mumbai	Asalfa NCL	72.895136	19.1002272
+Mumbai	Chheda Nagar NCL	72.9041239	19.0643664
+Mumbai	Deonar NCL	72.9171241	19.0568324
+Mumbai	Chembur NCL	72.8834355	19.0620527
+Mumbai	Shastri Nagar NCL	72.8293921	19.1393862
+Mumbai	Thane Creek NCL	72.9814877	19.0374312
+Mumbai	Bhandup West NCL	72.9315251	19.1509879
+Mumbai	Vihar Lake NCL	72.9076669	19.1540479
+Navi Mumbai	Airoli Node 7 NCL	72.9896164	19.1623192
+Navi Mumbai	Ambedkar Nagar NCL	72.9951421	19.179979
+Navi Mumbai	Bhimnagar NCL	72.9656182	19.2159985
+Navi Mumbai	Rabale NCL	73.003076	19.1366934
+Navi Mumbai	Talavali Naka NCL	73.001617	19.142509
+Navi Mumbai	Ishwar Nagar NCL	72.996005	19.183315
+Navi Mumbai	Digha NCL	72.9968027	19.1770808
+Navi Mumbai	Digha-2 NCL	72.9981857	19.1749766
+Navi Mumbai	Yadav Nagar NCL	73.0058435	19.1669732
+Navi Mumbai	Bonkode NCL	73.0117476	19.0970737
+Navi Mumbai	Vashi Node 8 NCL	73.0202584	19.040037
+Navi Mumbai	Sanpadagaon NCL	73.0161755	19.0644231
+Navi Mumbai	Sanpada Node NCL	73.0202584	19.040037
+Navi Mumbai	Juinagar NCL	73.014991	19.051493
+Navi Mumbai	Koparigaon NCL	72.970047	19.1768769
+Navi Mumbai	Pawane NCL	73.0257691	19.0904892
+Navi Mumbai	Juhugaon NCL	72.9999393	19.085894
+Navi Mumbai	Vashi Node 3 NCL	73.0202584	19.040037
+Navi Mumbai	Turbhe Store 1 NCL	73.0191275	19.0776412
+Navi Mumbai	APMC NCL	73.0098843	19.0707037
+Navi Mumbai	Vashi Node 6 NCL	73.0202584	19.040037
+Navi Mumbai	Vashi Node 7 NCL	73.0202584	19.040037
+Navi Mumbai	Vashi Node 9 MGM Complex NCL	73.0031771	19.0845389
+Navi Mumbai	Vashi Node 10 NCL	73.0202584	19.040037
+Navi Mumbai	Vashi Node 11 NCL	73.0202584	19.040037
+Navi Mumbai	Vashi Node 5 NCL	73.0202584	19.040037
+Navi Mumbai	Vashi Node 4 NCL	73.0202584	19.040037
+Navi Mumbai	Turbhegaon NCL	73.0121166	19.0694317
+Navi Mumbai	Vashigaon NCL	72.9892376	19.067272
+Navi Mumbai	Vashi Node 12 NCL	73.0202584	19.040037
+Navi Mumbai	Vashi Node 2 NCL	73.0202584	19.040037
+Navi Mumbai	Vashi Node 1 NCL	73.0202584	19.040037
+Navi Mumbai	Shirawane-2 NCL	73.0272492	19.0481903
+Navi Mumbai	Shirawane-1 NCL	73.0272492	19.0481903
+Navi Mumbai	Nerul Node 4 NCL	73.0202584	19.040037
+Navi Mumbai	Sarsole NCL	73.0117476	19.042441
+Navi Mumbai	Nerul Node 11 NCL	73.0202584	19.040037
+Navi Mumbai	Nerul Node 5 NCL	73.0202584	19.040037
+Navi Mumbai	Nerul Node 6 NCL	73.0202584	19.040037
+Navi Mumbai	Nerul Node 7 NCL	73.0202584	19.040037
+Navi Mumbai	Karave NCL	73.0198654	19.0094224
+Navi Mumbai	Nerul Node 1 NCL	73.0202584	19.040037
+Navi Mumbai	Chinchpada NCL	73.0892245	18.9914874
+Navi Mumbai	Belapur NCL	73.0314989	19.0037045
+Navi Mumbai	Nerul NRI NCL	73.01387	19.0076808
+Navi Mumbai	Airoli Naka NCL	73.0036295	19.1674824
+Navi Mumbai	Airoligaon NCL	73.0003371	19.1558438
+Navi Mumbai	Airoli Node 6 NCL	72.9896088	19.1621304
+Navi Mumbai	Airoli Node 5 NCL	72.9925995	19.1599407
+Navi Mumbai	Divagaon NCL	73.0477775	19.1869395
+Navi Mumbai	Mahape NCL	73.0275875	19.1182937
+Navi Mumbai	Khairne MIDC NCL	73.0014154	19.1708675
+Navi Mumbai	Ghansoli 1 NCL	72.9992013	19.1253629
+Navi Mumbai	Ghansoli 2 NCL	72.9992013	19.1253629
+Navi Mumbai	Koparkhairne Gaon NCL	73.004217	19.104913
+Navi Mumbai	Koparkhairne GES NCL	73.0196228	19.0977993
+Navi Mumbai	Nerul Node 9 NCL	73.0202584	19.040037
+Navi Mumbai	Nerul Node 10 NCL	73.0202584	19.040037
+Navi Mumbai	Nerul Node 3 NCL	73.0202584	19.040037
+Navi Mumbai	Nerul Node 2 NCL	73.0202584	19.040037
+Navi Mumbai	Nerul Gaon NCL	73.0250011	19.046713
+Navi Mumbai	Darave NCL	73.0198654	19.0094224
+Navi Mumbai	Nerul Node 8 NCL	73.0202584	19.040037
+Navi Mumbai	Belapur Node 2 (Agroli) NCL	73.0364692	19.0199683
+Navi Mumbai	Belapur Node 3 NCL	73.0202584	19.040037
+Navi Mumbai	Belapur Node 4 NCL	73.0202584	19.040037
+Navi Mumbai	Belapur Node 1 NCL	73.0202584	19.040037
+Navi Mumbai	Diwale NCL	73.0401588	19.0102514
+Mumbai	Colaba NCL	72.8147123	18.9067031
+Mumbai	Cuffe Parade NCL	72.8212934	18.9126831
+Mumbai	Nariman Point NCL	72.8242221	18.9255728
+Mumbai	Fort NCL	72.8371511	18.9352599
+Mumbai	New Marine Lines NCL	72.8286535	18.9389181
+Mumbai	Mandvi NCL	72.8382547	18.9563454
+Mumbai	Zaveri Bazar NCL	72.8304999	18.9495056
+Mumbai	Umerkhadi NCL	72.836039	18.9597259
+Mumbai	Dongari NCL	72.837815	18.9597509
+Mumbai	Kumbharwada NCL	72.8301306	18.9606013
+Mumbai	Bhuleshwar NCL	72.8295542	18.9562462
+Mumbai	Badam Wadi NCL	72.8292074	18.9492034
+Mumbai	Kalbadevi NCL	72.8288826	18.9487379
+Mumbai	Fanas Wadi NCL	72.8252228	18.9516918
+Mumbai	Bharat Nagar NCL	72.8183134	18.9637874
+Mumbai	Girgaon NCL	72.8196689	18.9572287
+Mumbai	Girgaon Chowpatty NCL	72.8127739	18.9542851
+Mumbai	Malabar Hill NCL	72.8013252	18.9542739
+Mumbai	Tardeo NCL	72.8091825	18.9649699
+Mumbai	Kazipura NCL	72.8305238	18.9641028
+Mysore	Narasimharaja Mohalla NCL	76.6632422	12.3351873
+Mysore	Satya Nagar NCL	76.6790314	12.30721
+Mysore	NR Mohalla NCL	76.6642106	12.3275888
+Mysore	Kalyan Giri NCL	76.6889136	12.3251887
+Mysore	Udayagiri NCL	76.6822929	12.3242235
+Mysore	Ghousia Nagar NCL	76.6809744	12.3184944
+Mysore	Jyothi Nagar NCL	76.6694257	12.3179243
+Mysore	Nazarbad NCL	76.662929	12.312702
+Mysore	Indira Nagar NCL	77.6411545	12.9718915
+Mysore	Kurubarahalli NCL	77.5318463	13.0023069
+Mysore	JSS Nagar NCL	76.6933995	12.2919081
+Mysore	Ramachandra Agrahara NCL	76.6542664	12.2926715
+Mysore	KR Mohalla NCL	76.6492128	12.3001225
+Mysore	KC Koppal NCL	76.6398272	12.3031589
+Mysore	Ramaswamy Circel Colony NCL	77.5809259	12.966013
+Mysore	Sunnada Keri NCL	76.6441713	12.3255788
+Mysore	Railway Colony NCL	77.5669571	12.9792817
+Mysore	JP Nagar NCL	77.5857168	12.910491
+Mysore	Ashok Puram NCL	76.6398272	12.2863588
+Mysore	Vishweshwara Nagar NCL	76.6439175	12.2833927
+Mysore	Jayanagar NCL	77.5938028	12.9250074
+Mysore	Kannagaudana Koppalu NCL	76.6183387	12.3315015
+Mysore	KHB Colony NCL	77.5336812	12.9855923
+Mysore	Vivekanandanagar NCL	76.6232202	12.2750401
+Mysore	Sharda Devi Nagar NCL	76.6145548	12.2942085
+Mysore	Gangotri NCL	76.6232591	12.3258098
+Mysore	TK Layout NCL	76.6167212	12.2992155
+Mysore	Saraswatipuram NCL	76.632607	12.3042019
+Mysore	Chamarajapuram NCL	76.6398272	12.3003587
+Mysore	K R Nagar NCL	76.6533432	12.3087101
+Mysore	Devaraja Mohalla NCL	76.6398272	12.3143605
+Mysore	Paduvarahalli NCL	76.6304409	12.3187967
+Mysore	Mandi Mohalla NCL	76.6557102	12.3165464
+Mysore	Sultan Park Mandi Mohalla NCL	76.6557102	12.3165464
+Mysore	Soppinakeri NCL	75.3553694	14.2722127
+Mysore	Sathya Narayana Nagar NCL	77.5534524	12.9179835
+Mysore	Hebbal NCL	77.5970222	13.0357695
+Mysore	Kumbarakoppal NCL	76.6253865	12.3416529
+Mysore	Gokulam NCL	76.6281743	12.3340789
+Mysore	CFTRI Residential Complex NCL	76.621776	12.3323705
+Mysore	Yadavagiri NCL	76.6427152	12.3201047
+Mysore	Vinayaka Nagar NCL	77.5458203	12.9630766
+Mysore	Tilak Nagar NCL	76.647769	12.3252562
+Mysore	Shri Rajapheshwa Nagar NCL	77.519654	13.0137881
+Mysore	Rajendranagar NCL	77.6185286	12.9492717
+Mysore	Ganesh Nagar NCL	74.9720195	15.4346405
+Nagpur	Nagsen Nagar NCL	79.1204082	20.1111234
+Nagpur	Fort NCL	73.73796844	27.19890976
+Nagpur	Harpur NCL	84.05059052	25.42457962
+Nashik	Adarsh Nagar NCL	74.5067854	20.5601826
+Nashik	Somwar Peth NCL	74.2458108	20.3313372
+Nashik	Wadala NCL	73.983333	20.383333
+Nashik	Chinchole NCL	74.17871857	20.2942009
+Nashik	Ambad NCL	73.64482117	20.35721016
+Nashik	Nandur NCL	74.10572052	20.20940018
+Nashik	Manur Gaon NCL	73.9876252	20.4762779
+Nashik	Adarsh Nagar NCL	74.5067854	20.5601826
+Nashik	Somwar Peth NCL	74.2458108	20.3313372
+Nashik	Wadala NCL	73.983333	20.383333
+Nashik	Chinchole NCL	74.17871857	20.2942009
+Nashik	Ambad NCL	73.64482117	20.35721016
+Nashik	Nandur NCL	74.10572052	20.20940018
+Nashik	Manur Gaon NCL	73.9876252	20.4762779
+Patna	Railway Quarters NCL	84.7977764	19.3024214
+Patna	Railway Quarters NCL	84.7977764	19.3024214
+Delhi	Bakhtawarpur NCL	77.1721541	28.8242148
+Delhi	Bawana NCL	77.0463008	28.8054651
+Delhi	Mukandpur NCL	76.9448613	28.7410193
+Delhi	Narela NCL	77.0917838	28.8539597
+Delhi	Bankner NCL	77.0737149	28.8444556
+Pune	Suprabhat Nagar NCL	73.82321167	18.57049942
+Pune	Vidya Nagar NCL	73.9175077	18.5946677
+Pune	Vadgaon Sheri NCL	73.920817	18.5527193
+Pune	Kalyani Nagar NCL	73.9033139	18.5463286
+Pune	Yerwada NCL	73.883942	18.545191
+Pune	MHADA Coop HSG Society NCL	73.9075344	18.5689886
+Pune	Navi Khadaki Gavthan NCL	73.8857168	18.5512038
+Pune	Salwe Nagar NCL	73.8808651	18.54707
+Pune	Ashok Nagar NCL	73.8396802	18.5414013
+Pune	Ranjeet Nagar NCL	73.8639594	18.546316
+Pune	Bopodi NCL	73.8345794	18.5693781
+Pune	Mamta Nagar NCL	73.8297761	18.5717732
+Pune	Aundh NCL	73.8075201	18.558007
+Pune	Aundh Gaon NCL	73.8102927	18.5639463
+Pune	Baner NCL	73.7799374	18.5596581
+Pune	Shiv Nagar NCL	73.9462689	18.4756881
+Pune	Cinderela NCL	73.8745874	18.515806
+Pune	Punya Nagri NCL	73.85308838	18.50419044
+Pune	Pashan NCL	73.8024097	18.5416299
+Pune	Janakwadi NCL	73.8249973	18.5292326
+Pune	Model Colony NCL	73.8374954	18.5324846
+Pune	Bhamburda NCL	73.8470993	18.52470016
+Pune	Asha Nagar NCL	73.82589722	18.53248978
+Pune	Koregaon Park NCL	73.8939748	18.5362084
+Pune	Lumbini Nagar NCL	73.8727799	18.5384435
+Pune	Banker Colony NCL	73.9451668	18.4989999
+Pune	Gajanan Colony NCL	73.9378191	18.4832391
+Pune	Mohammad Wadi NCL	73.9135777	18.4705325
+Pune	Wanowari NCL	73.8958138	18.4851325
+Pune	Katad Khana NCL	73.87572	18.5041344
+Pune	Indra Nagar Nagar NCL	73.864038	18.468603
+Pune	Dadawadi NCL	73.8558736	18.5016866
+Pune	Gulmohar CHS NCL	73.8272727	18.5107102
+Pune	Rajender Nagar NCL	73.843275	18.504929
+Pune	Anand Bagh NCL	73.8638812	18.4713723
+Pune	Bharat Kunj NCL	73.8722885	18.6218054
+Pune	Mayur Colony NCL	73.8161747	18.5039834
+Pune	Shanti Nagar NCL	73.87572	18.567507
+Pune	Indira Nagari NCL	73.8231291	18.5073667
+Pune	Warje NCL	73.796834	18.4864727
+Pune	Shivane NCL	73.7803508	18.4666899
+Pune	Karve Nagar NCL	73.8202962	18.4897587
+Pune	Parvati Darshan Area (Parvati Jal) NCL	73.8579788	18.4944592
+Pune	Laxmi Nagar West NCL	73.8485225	18.4938463
+Pune	Nirmal Bagh NCL	73.854019	18.488853
+Pune	Parvati NCL	73.8665666	18.4459082
+Pune	Prem Nagar NCL	73.8363927	18.5377885
+Pune	Gultekdi NCL	73.8683697	18.4876541
+Pune	Kondhwa Khurd NCL	73.8906869	18.4770906
+Pune	Galaxy NCL	73.8633235	18.5032152
+Pune	Saibaba Nagar NCL	73.8786601	18.4698283
+Pune	Gultekdi (Market Yard) NCL	73.8683697	18.4876541
+Pune	Jedhe Nagar NCL	73.8624104	18.4822033
+Pune	Padma Darshan Society NCL	73.8562411	18.479759
+Pune	Sahaker Nagar NCL	73.8544034	18.4756393
+Pune	Hingne Budrukh NCL	73.8169099	18.4903696
+Pune	Vadgaon Khurd NCL	73.830014	18.456807
+Pune	Vadgaon Budrukh NCL	73.8270379	18.4671955
+Pune	Manik Baug NCL	73.8209536	18.4745254
+Pune	Parvati Darshan Area NCL	73.85429	18.494443
+Pune	Partibha Nagar NCL	73.8526422	18.4671103
+Pune	Dhankawdi NCL	73.8505315	18.4616211
+Pune	Padamavati Nagar NCL	73.857315	18.478524
+Pune	The Sadanand CHS NCL	73.8047254	18.5612286
+Pune	Shelake Vasti NCL	73.7811833	18.6099586
+Pune	Bibvewadi NCL	73.8670914	18.4717965
+Pune	Ramya Nagari NCL	73.8687372	18.4707661
+Pune	Kondhwa Budrukh NCL	73.892797	18.4444067
+Pune	Katraj Nagar NCL	73.875663	18.449966
+Pune	Upper Indira Nagar NCL	73.8644644	18.4638133
+Pune	Sahakar Nagar NCL	73.8544034	18.4756393
+Pune	Ambegaon Budrukh NCL	73.8417649	18.4488541
+Pune	Dhanori NCL	73.8864876	18.5835002
+Pune	Lohagaon NCL	73.9246989	18.5960233
+Pune	Tingre Nagar NCL	73.8991747	18.5780997
+Pune	Bopkhel NCL	73.8477874	18.5924336
+Pune	Bharat Nagar NCL	73.8693265	18.6213597
+Pune	Lohagaon (Puru Society) NCL	73.9032812	18.5724311
+Pune	Pandhari Nagar NCL	73.9374517	18.4576416
+Pune	Kharadi NCL	73.944788	18.5549543
+Pune	Hermes Kunj NCL	73.8831136	18.5357878
+Pune	Gera Garden NCL	73.8859718	18.536494
+Pune	Mundhwa NCL	73.9331528	18.5321814
+Pune	Hadapasar NCL	73.9260261	18.5089197
+Pune	Hadapasar Indl Area NCL	73.9212858	18.4922494
+Pune	Kavade Mala NCL	73.9015962	18.5150156
+Pune	Ghorpadi NCL	73.909957	18.529252
+Pune	Pune Cantonment NCL	73.8946624	18.4986812
+Pune	Mangalwar Peth NCL	73.8646945	18.5240566
+Pune	Samarat Ashok Nagar NCL	73.9384678	18.5623116
+Pune	Bhiamanagar Slum Area NCL	73.8479712	18.5004581
+Pune	Kasba Ganapati NCL	73.8419698	18.5050499
+Pune	Shaniwar Peth NCL	73.8519356	18.5194431
+Pune	Pulachi Wadi NCL	73.8466847	18.516366
+Pune	Hanuman Nagar NCL	73.9264296	18.5539167
+Pune	Prabodhan Society NCL	73.8301437	18.5114148
+Pune	Erandwane NCL	73.831721	18.5085936
+Pune	Rambaug Colony NCL	73.8169099	18.5162864
+Pune	Sutardada Nagar NCL	73.8088221	18.5177392
+Pune	Matoba Nagar NCL	73.8022046	18.5150007
+Pune	Kothrud NCL	73.8076504	18.5073985
+Pune	Shastri Nagar Slum Area NCL	73.8393333	18.6208616
+Pune	Shivthirth Nagar NCL	73.8084545	18.5101479
+Pune	Janki Nagar NCL	73.809925	18.5117163
+Pune	Anand Nagar NCL	73.8213213	18.4777968
+Pune	Erdandwane NCL	73.831721	18.5085936
+Pune	Erandwane Gaothan NCL	73.8352899	18.507092
+Pune	Joshi wada NCL	73.8422739	18.5123812
+Pune	Narayan Peth NCL	73.8500717	18.5154741
+Pune	Ekbote Colony NCL	73.8672672	18.5023187
+Pune	Guruwar Peth NCL	73.860676	18.506593
+Pune	Ganj Peth NCL	73.8655024	18.5093433
+Pune	Wanwadi NCL	73.8995179	18.4874498
+Pune	Tulsibaug NCL	73.855506	18.514255
+Pune	Mohammad Wadi (Sayyar Nagar) NCL	73.9151611	18.46418
+Pune	Budhwar Peth NCL	73.8580397	18.5158792
+Pune	Raviwar Peth NCL	73.8613471	18.513563
+Pune	Tukie Nagar NCL	73.8275705	18.4736625
+Pune	Sadhna Vidyalaya NCL	73.938856	18.505873
+Pune	Nana Peth NCL	73.8653833	18.5144313
+Pune	Rasta Peth NCL	73.8671232	18.5176333
+Pune	Sadar Bazar NCL	73.873515	18.5104232
+Pune	Raje Wadi NCL	73.8622842	18.5153519
+Pune	Bhawani Peth NCL	73.8699182	18.5116565
+Pune	Ganesh Peth NCL	73.8678766	18.5140531
+Pune	Shukrawar Peth (Mahatma Phule Market) NCL	73.8563018	18.5129082
+Pune	Sadashiv Peth NCL	73.8465648	18.5083218
+Pune	Vijay Nagar NCL	73.7908073	18.6202008
+Pune	Subhash Nagar NCL	73.8573437	18.5046947
+Pune	Shukrawar Peth NCL	73.8567002	18.5083204
+Pune	Gadikhana NCL	73.8579	18.511939
+Pune	Moninpura Gang Peth NCL	73.862361	18.5079471
+Raipur	Indira Gandhi Ward NCL	81.6759109	21.2390194
+Raipur	Rajeev Gandhi Ward NCL	81.6528702	21.2600899
+Raipur	Lal Bahadur Shashtri Ward NCL	75.86763	22.7196999
+Raipur	Dr. Bhimrao Ambedkar Ward NCL	82.4063187	27.3158207
+Raipur	Maharshi Valmiki Ward NCL	75.741879	29.160067
+Raipur	Sadar Bazar Ward NCL	81.9479973	21.7390944
+Raipur	Mother Teresa Ward NCL	88.3078909	22.4575484
+Raipur	P. Motilal Nehru Ward NCL	81.9476851	21.7402032
+Raipur	Ravindranath Taigore Ward NCL	79.94204712	23.1736908
+Raipur	Swami Vivekanand Ward NCL	72.5947495	23.0172691
+Rajkot	Udhyog Naga NCL	70.6105257	21.7430216
